@@ -8,3 +8,6 @@ how to use:
 - change name to 'SAPbetul'
 - download agent list (change to agentslist)
 - download agent weekly report (change to UPVLeadsJumlah)
+
+#note
+few merging cannot be used with primary key due to differences in databases primary key and/or bad primary key between 2 databases
